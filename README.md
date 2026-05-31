@@ -212,9 +212,7 @@ class MomnaAli:
 
 ```
 🔨  Building    →  NexaIQ — Autonomous Data Intelligence Platform
-🎯  Seeking     →  Data Engineer | ML Engineer | AI Engineer
-                   Data Scientist | Data Analyst (Canada 🇨🇦)
-📚  Learning    →  Advanced LangGraph · Azure Deployment · Vector DBs
+🎯  Seeking     →  Data Engineer | ML Engineer | AI Engineer | Data Scientist | Data Analyst (Canada 🇨🇦)
 💬  Open to     →  Full-time roles · Collaborations · Interesting problems
 📍  Location    →  Toronto, Ontario, Canada
 ```
